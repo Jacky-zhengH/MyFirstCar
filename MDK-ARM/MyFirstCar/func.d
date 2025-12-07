@@ -29,4 +29,10 @@ myfirstcar\func.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
 myfirstcar\func.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
 myfirstcar\func.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
 myfirstcar\func.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
+myfirstcar\func.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+myfirstcar\func.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+myfirstcar\func.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+myfirstcar\func.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
 myfirstcar\func.o: ..\Hardware\func.h
+myfirstcar\func.o: ..\Hardware\comm.h
+myfirstcar\func.o: ..\Hardware\motor.h

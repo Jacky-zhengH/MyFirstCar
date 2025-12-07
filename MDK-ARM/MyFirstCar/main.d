@@ -31,3 +31,11 @@ myfirstcar\main.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
 myfirstcar\main.o: ../Core/Inc/adc.h
 myfirstcar\main.o: ../Core/Inc/usart.h
 myfirstcar\main.o: ../Core/Inc/gpio.h
+myfirstcar\main.o: ../Hardware/header.h
+myfirstcar\main.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+myfirstcar\main.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+myfirstcar\main.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+myfirstcar\main.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+myfirstcar\main.o: ../Hardware/func.h
+myfirstcar\main.o: ../Hardware/comm.h
+myfirstcar\main.o: ../Hardware/motor.h

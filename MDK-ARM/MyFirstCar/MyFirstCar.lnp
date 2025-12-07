@@ -22,6 +22,8 @@
 "myfirstcar\stm32f1xx_hal_uart.o"
 "myfirstcar\system_stm32f1xx.o"
 "myfirstcar\func.o"
+"myfirstcar\comm.o"
+"myfirstcar\motor.o"
 --strict --scatter "MyFirstCar\MyFirstCar.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers
