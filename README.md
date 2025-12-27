@@ -4,8 +4,11 @@
 ![Language](https://img.shields.io/badge/Language-C-blue?logo=c&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Under_Development-orange)
 > 完成情况
-> - [ ] 完成 GPIO 初始化
-> - [ ] 调试 UART 串口
+> - [x] 完成 GPIO 初始化
+> - [x] 调试 UART 串口
+> - [ ] 编写 OLED 多级菜单
+> - [ ] 完成 开环 控制（速度）
+> - [ ] 完成 PID 控制算法实现闭环控制
 > - [ ] 编写说明文档
 
 ![运行效果图](./image/Cat.jpg)
